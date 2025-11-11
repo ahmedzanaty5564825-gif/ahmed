@@ -1,0 +1,7 @@
+{
+  "name": "منظم جدول الصيدلية",
+  "description": "An intelligent pharmacy shift scheduler that uses AI to create fair and optimal work schedules based on pharmacist preferences and constraints. Designed for simplicity and efficiency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
